@@ -1,0 +1,15 @@
+body {
+    background: url("file:///C:/Users/Shiv/Downloads/astronomy-1867616_1280.jpg");
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 170px;
+
+}
+body h1{
+    font-size: 9vh;
+}
+#countdown {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 20px;
+}
